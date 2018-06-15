@@ -1,1 +1,1 @@
-# Fashion_mnist
+Fashion MNIST dataset is available
